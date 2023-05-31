@@ -1,0 +1,423 @@
+<!-- 
+Microsoft
+365 
+Teams 
+Windows 
+Surface 
+Xbox 
+Support  -->
+
+<!-- 
+    <div class="relative">
+        <img class="object-fill h-auto w-full" src="/images/Highlight-Hero-M365-Screenplates-Update-Excel VP5-1920x600.jpg" />
+
+        <h3 class="absolute text-2xl text-blue-300 top-5 left-5 mx-auto">Top Left</h3>
+    </div>
+ -->
+
+
+
+
+
+
+<!-- 
+      The top tooltip
+      <div class="mt-20">
+        <a href="#" class="group relative inline-block text-blue-500 underline hover:text-red-500 duration-300">
+            Link with top tooltip
+            Tooltip text here
+            <span
+                class="absolute hidden group-hover:flex -left-5 -top-2 -translate-y-full w-48 px-2 py-1 bg-gray-700 rounded-lg text-center text-white text-sm after:content-[''] after:absolute after:left-1/2 after:top-[100%] after:-translate-x-1/2 after:border-8 after:border-x-transparent after:border-b-transparent after:border-t-gray-700">This
+                is some extra useful information</span>
+        </a>
+    </div> -->
+
+
+
+
+
+
+
+
+
+
+ <!-- Start Slider -->
+    <!-- 
+    <div class="flex justify-center items-center">
+        <div class="relative hidden md:block">
+            <img class="object-fill h-1/3 w-full"
+                src="/images/Highlight-Hero-M365-Screenplates-Update-Excel VP5-1920x600.jpg" />
+            <div class="absolute text-2xl text-black top-5 left-5 mx-8 mt-auto w-[40%] lg:m-24">
+                <h1 class="font-semibold">Microsoft 365</h1>
+                <p class="text-base">Premium Office apps, extra cloud storage, advanced security, and more – all in one
+                    convenient subscription </p> <br>
+                <button class="bg-blue-500 hover:bg-blue-600 text-base text-white p-2 rounded-sm mr-6 my-2 ">
+                    For 1 Person</button><span class="mr-[1.5rem] text-base text-blue-400"> For up to 6 people > 
+                    </span>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex flex-col relative md:hidden">
+        <img class="object-fill h-64 w-full" src="/images/Hero-Screenplates.avif" />
+        <div>
+            <div class="bg-gray-200 md:px-[17px] px-0 h-auto">
+                <div class="bg-gray-200 shadow-xl">
+                    <div class="px-5 pb-5">
+                        <h1 class="font-semibold">Microsoft 365</h1>
+                        <p class="text-base">Premium Office apps, extra cloud storage, advanced security, and more – all
+                            in one convenient subscription </p> <br>
+                        <button class="bg-blue-500 hover:bg-blue-600 hover:shadow-2xl text-base text-white  p-2 rounded-sm mr-6 my-2">
+                            For 1 Person</button><span class="mr-[1.5rem] text-base text-blue-400 "> 
+                                For up to 6 people >
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+  <!-- End Slider -->
+
+
+
+
+
+
+
+  <!-- start cards -->
+  
+  <!-- <div class="container2 flex flex-row flex-wrap justify-center md:mx-4 my-3 px-[3%]">
+
+        <div class="card1 flex justify-center  w-[25%] flex-col px-3 my-3">
+            <img class="w-100%" src="/images/Content-Card-Surface-Laptop-Go-2-01-M01.jpg" alt="loding"><br><br>
+            <h1 class="font-semibold text-3xl" > Surface Laptop Go 2 </h1><br>
+            <p> A sleek laptop with a 12.4-inch touchscreen, great typing experience and improved HD camera.</p>
+            <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. > </span>
+        </div>
+
+        <div class="card2 flex justify-center  w-[25%] flex-col px-3">
+            <img class="w-100%" src="/images/Gldn-mscom-01-Black-Platinum-CP02.webp" alt="loding"><br><br>
+            <h1 class="font-semibold text-3xl">Surface Laptop 4</h1><br>
+            <p> Do it all with a perfect balance of sleek, ultra-thin design, multitasking speed and improved performance. </p>
+            <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. > </span>
+        </div>
+
+        <div class="card3 flex justify-center  w-[25%] flex-col px-3">
+            <img class="w-100%" src="/images/Content-Card-AEM-PC-Game-Pass-Expansion3.webp" alt="loding"><br><br>
+            <h1 class="font-semibold text-3xl">PC Game Pass</h1><br> 
+            <p>Unlock 100+ great games and EA Play, plus get your first month for ₹50. Offer available to new subscribers only.</p>
+            <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. > </span>
+        </div>
+
+        <div class="card4 flex justify-center w-[25%] flex-col px-3">
+            <img class="w-100%" src="/images/gldn-CP-Windows11-GlobalLaunch4.jpg" alt="loding"><br>
+            <h1 class="font-semibold text-3xl">Designed for life today – and tomorrow </h1><br>     
+            <p>The next-generation of games. Your goals. Friends and family. Windows 11 was made to bring you closer to everything you love.</p>
+            <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. > </span>
+        </div>
+
+    </div> -->
+
+  <!-- end cards -->
+
+
+
+
+
+
+
+  <!-- img icon -->
+  <!-- <div class="cart text-center md:order-3 flex">
+    <div class="search hidden md:block mr-6 ">
+        All Microsoft
+    </div>
+    <div class="w-6 mr-4">cart<img src="/images/shopping-cart.svg" alt=""></div>
+    <!-- Account<img class="w-8 mr-4" src="/images/user-account.svg" alt=""> -->
+<!-- </div> --> -->
+
+
+<div class="cart text-center md:order-3 flex boder-box">
+    <div class="search hidden md:block mr-6">
+    All Microsoft icon</div>
+    <img class="w-5 mr-4 " src="/images/icons8-search-32.png" alt="">
+    <div class=" flex">
+        <img class="w-5 h-8 mr-4" src="/images/shopping-cart.svg" alt="">
+        <img class="w-5 h-8 mr-4" src="/images/user-account.svg" alt="">
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container2 flex flex-col flex-wrap md:flex-row justify-center md:mx-4  px-[3%]"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <title>Microsoft – Cloud, Computers, Apps &amp; Gaming</title>
+</head>
+
+<body>
+    <!-- Start navbar -->
+    <div class="navbar flex justify-between items-center p-4">
+        <div class="flex justify-center items-center md:order-2">
+            <div class="hamburger inline-block p-4 cursor-pointer md:hidden">
+                <div class="line h-0.5 w-6 my-1 bg-black"></div>
+                <div class="line h-0.5 w-6 my-1 bg-black"></div>
+                <div class="line h-0.5 w-6 my-1 bg-black"></div>
+            </div>
+            <div class="search md:hidden w-6  mr-4">
+                <!-- <img class="text-black" src="/images/icons8-search-32.png" alt=""> -->
+            </div>
+        </div>
+        <div class="logo text-center flex ">
+            <div><img class="w-24 cursor-pointer" src="/images/RE1Mu3b.png" alt=""></div>
+            <!-- <div class="hidden md:inline-block"> -->
+            <div
+                class="features absolute w-fit md:static md:w-auto bg-gray-200 md:bg-white inset-0 md:flex flex-wrap md:mx-4 md:space-x-6 -translate-x-96 md:translate-x-0">
+                <div class="fitems text-sm cursor-pointer hover:underline hover:underline-offset-4">Microsoft 365</div>
+                <div class="fitems text-sm cursor-pointer hover:underline hover:underline-offset-4">Teams</div>
+                <div class="fitems text-sm cursor-pointer hover:underline hover:underline-offset-4">Windows</div>
+                <div class="fitems text-sm cursor-pointer hover:underline hover:underline-offset-4">Surface</div>
+                <div class="fitems text-sm cursor-pointer hover:underline hover:underline-offset-4">Xbox</div>
+                <div class="fitems text-sm cursor-pointer hover:underline hover:underline-offset-4">Support</div>
+                <!-- </div>  -->
+            </div>
+        </div>
+        <div class="cart text-center md:order-3 flex">
+            <div class="search hidden md:block mr-5 cursor-pointer hover:underline hover:underline-offset-4">
+                All Microsoft</div>
+            <div class="hidden md:block">
+                <div class="ml-4 mr-2 cursor-pointer hover:underline hover:underline-offset-4">Search</div>
+            </div>
+
+            <img class="w-5 mr-4  cursor-pointer" src="/images/icons8-search-32.png" alt="">
+            <div class="flex">
+                <img class="w-5 mr-4 cursor-pointer" src="/images/shopping-cart.svg" alt="">
+                <img class="w-5 mr-4 cursor-pointer" src="/images/user-account.svg" alt="">
+            </div>
+        </div>
+    </div>
+    <!-- End navbar -->
+    <!-- Start Slider -->
+    <div class="slider flex flex-col-reverse shadow-md md:shadow-none md:flex-row md:bg-[#f2f2f2] sm:bg-white">
+        <div class="md:my-9 md:mx-7  py-6 px-4 left flex flex-col justify-center">
+            <h1 class="font-semibold text-3xl">Microsoft 365</h1>
+            <br>
+            <p class="text-base">Premium Office apps, extra cloud storage, advanced security, and more – all in one
+                convenient subscription </p> <br>
+            <div class="flex flex-row justify-start items-center flex-wrap">
+                <button class="bg-blue-500 hover:bg-blue-600 text-base text-white p-2 rounded-sm mr-6 my-2 ">
+                    For 1 Person</button><span class="text-base text-blue-400 cursor-pointer"> For up to 6 people >
+                </span>
+            </div>
+        </div>
+        <div class="right">
+            <img class="h-auto" src="/images/Hero-Screenplates.avif" alt="">
+        </div>
+
+    </div>
+    <!-- End Slider -->
+
+    <!-- start icone Tag main -->
+    <div class="container1 flex flex-wrap flex-row justify-center md:mx-10 ">
+        <div class="W">
+            <div class="flex justify-center items-center flex-col p-4 my-6">
+                <img class="cursor-pointer" src="/images/M1-.webp" alt="loding">
+                <p class="text-blue-500 hover:underline cursor-pointer text-center  mt-2">Choose your Microsoft 365</p>
+            </div>
+        </div>
+        <div class="B">
+            <div class="flex justify-center items-center flex-col p-4 my-6">
+                <img class="cursor-pointer" src="/images/k2.webp" alt="loding">
+                <p class="text-blue-500 hover:underline cursor-pointer text-center  mt-2">Explore Surface devices</p>
+            </div>
+        </div>
+        <div class="L">
+            <div class="flex justify-center items-center flex-col p-4 my-6">
+                <img class="cursor-pointer" src="/images/xbox-.webp" alt="loding">
+                <p class="text-blue-500 hover:underline cursor-pointer text-center  mt-2">Buy Xbox games</p>
+            </div>
+        </div>
+        <div class="W">
+            <div class="flex justify-center items-center flex-col p-4 my-6">
+                <img class="cursor-pointer" src="/images/M1-.webp" alt="loding">
+                <p class="text-blue-500 hover:underline cursor-pointer text-center mt-2">Get Windows 11</p>
+            </div>
+        </div>
+    </div>
+    <!-- End icone Tag main -->
+
+    <!-- Start Cards -1   -->
+    <!-- <div class="hidden lg:block"> -->
+    <div class="container2 flex flex-wrap md:flex-row sm:flex-col  justify-center mb-3">
+
+        <div class="card1  max-w-sm px-3 mb-4">
+            <img class="w-full" src="/images/Content-Card-Surface-Laptop-Go-2-01-M01.jpg" alt="loding"><br>
+            <h1 class="font-semibold text-3xl"> Surface Laptop Go 2 </h1><br>
+            <p> A sleek laptop with a 12.4-inch touchscreen, great typing experience and improved HD camera.</p><br>
+            <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. >
+            </span>
+        </div>
+
+        <div class="card2  max-w-sm  px-3 mb-4">
+            <img class="w-full" src="/images/Gldn-mscom-01-Black-Platinum-CP02.webp" alt="loding"><br>
+            <h1 class="font-semibold text-3xl">Surface Laptop 4</h1><br>
+            <p> Do it all with a perfect balance of sleek, ultra-thin design, multitasking speed and improved
+                performance. </p>
+            <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. >
+            </span>
+        </div>
+
+        <div class="card3 max-w-sm px-3  mb-4">
+            <img class="w-full" src="/images/Content-Card-AEM-PC-Game-Pass-Expansion3.webp" alt="loding"><br>
+            <h1 class="font-semibold text-3xl">PC Game Pass</h1><br>
+            <p>Unlock 100+ great games and EA Play, plus get your first month for ₹50. Offer available to new
+                subscribers only.</p>
+            <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. >
+            </span>
+        </div>
+
+        <div class="card4 max-w-sm px-3  mb-4">
+            <img class="w-full" src="/images/gldn-CP-Windows11-GlobalLaunch4.jpg" alt="loding"><br>
+            <h1 class="font-semibold text-3xl">Designed for life today – and tomorrow </h1><br>
+            <p>The next-generation of games. Your goals. Friends and family. Windows 11 was made to bring you closer
+                to everything you love.</p>
+            <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. >
+            </span>
+        </div>
+       
+    </div>
+
+
+    <!-- Ends cards -1   -->
+
+    <!-- ete4634xdgdgxfbdfbcfbcbfgbgfbgbcgbcb -->
+        <!-- Start Cards -1   -->
+        <!-- <div class="hidden lg:block"> -->
+            <div class="container2 flex md:flex-row justify-center flex-wrap md:mx-4  px-[3%]">
+    
+                <div class="card1 flex justify-center  lg:w-[25%] flex-col px-3 my-3">
+                    <img class="w-full" src="/images/Content-Card-Surface-Laptop-Go-2-01-M01.jpg" alt="loding"><br><br>
+                    <h1 class="font-semibold text-3xl"> Surface Laptop Go 2 </h1><br>
+                    <p> A sleek laptop with a 12.4-inch touchscreen, great typing experience and improved HD camera.</p>
+                    <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. >
+                    </span>
+                </div>
+    
+                <div class="card2 flex justify-center  lg:w-[25%] flex-col px-3">
+                    <img class="w-full" src="/images/Gldn-mscom-01-Black-Platinum-CP02.webp" alt="loding"><br><br>
+                    <h1 class="font-semibold text-3xl">Surface Laptop 4</h1><br>
+                    <p> Do it all with a perfect balance of sleek, ultra-thin design, multitasking speed and improved
+                        performance. </p>
+                    <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. >
+                    </span>
+                </div>
+    
+                <div class="card3 flex justify-center  lg:w-[25%] flex-col px-3">
+                    <img class="w-full" src="/images/Content-Card-AEM-PC-Game-Pass-Expansion3.webp" alt="loding"><br><br>
+                    <h1 class="font-semibold text-3xl">PC Game Pass</h1><br>
+                    <p>Unlock 100+ great games and EA Play, plus get your first month for ₹50. Offer available to new
+                        subscribers only.</p>
+                    <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. >
+                    </span>
+                </div>
+    
+                <div class="card4 flex justify-center lg:w-[25%] flex-col px-3">
+                    <img class="w-100%" src="/images/gldn-CP-Windows11-GlobalLaunch4.jpg" alt="loding"><br>
+                    <h1 class="font-semibold text-3xl">Designed for life today – and tomorrow </h1><br>
+                    <p>The next-generation of games. Your goals. Friends and family. Windows 11 was made to bring you closer
+                        to everything you love.</p>
+                    <span class="text-blue-400 cursor-pointer hover:underline hover:underline-offset-2">learn more. >
+                    </span>
+                </div>
+            </div>
+        <!-- </div> -->
+        <!-- Ends cards -1   -->
+    
+
+</body>
+<!-- Done -->
+
+</html>
