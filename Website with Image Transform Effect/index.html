@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" />
+    <title>portfolio website</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            list-style: none;
+            text-decoration: none;
+        }
+        .hero{
+            height: 100vh;
+            width: 100%;
+            background: #edf2fc;
+            font-family: sans-serif;
+            position: relative;
+            
+        }
+        nav{
+            width: 84%;
+            margin: auto ;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        #logo_img{
+            width: 100px;
+            cursor: pointer;
+        }
+        nav ul li{
+            display: inline-block;
+            list-style: none;
+            margin: 10px 20px;
+        }
+        nav ul li a{
+            color: #606163;
+        }
+        nav ul li a:hover{
+            color: #ff4321;
+        }
+        .info{
+            margin-left: 8%;
+            margin-top: 12%;
+        }
+        .info h1{
+           font-size: 60px;
+           color: #212121;
+           margin-bottom: 20px;
+        }
+        .info h1 span{
+           color: #ff4321;
+        }
+        .info p{
+           color: #606163;
+           line-height: 22px;
+        }
+        .info a{
+          background: #212121;
+          padding: 10px 10px;
+          color: #fff;
+          display: inline-block;
+          margin: 30px 0;
+          border-radius: 5px;
+        }
+
+        .img-box{
+            width: 45%;
+            height: 80%;
+            position: absolute;
+            bottom: 0;
+            right: 100px;
+        }
+        .img-box img{
+            height: 100%;
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            transition: bottom 1s,left 1s;
+        }
+        .img-box:hover .back-img{
+            bottom:40px;
+        }
+        .img-box:hover .main-img{
+            left: 54%;
+        }
+        
+        .social-link{
+            margin-left: 8%;
+            margin-top: 1em;
+        }
+        .social-link a{
+            font-size: 20px;
+            color: #606163;
+            margin-right: 20px;
+        }
+        .social-link a:hover{
+            color: #ff4321;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <nav>
+            <img src="/images/logo.png" alt="loding img" id="logo_img">
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">PORTFOLIO</a></li>
+                <li><a href="#">SERVICES</a></li>
+                <li><a href="#">HIRE ME</a></li>
+            </ul>
+        </nav>
+        <div class="info">
+            <h1>I'm <span class="auto-input"></span></h1>
+            <p>this is my offcial portfolio website to showcase my all works related to <br> web development and UI design.</p>
+            <a href="#">Download CV</a>
+        </div>
+        <div class="img-box">
+            <img src="/images/pattern.png" class="back-img">
+            <img src="/images/girl.png" class="main-img">
+        </div>
+        <div class="social-link">
+            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#"><i class="fab fa-behance"></i></a>
+            <a href="#"><i class="fab fa-github"></i></a>
+        </div>
+    </div>   
+    <script src="https://unpkg.com/typed.js@2.0.132/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed(".auto-input",{
+            strings:["Kate  Amelia","Web developer","UI/UX designer"],
+            typeSpeed:50,
+            backSpeed:50,
+            loop: true
+        })
+    </script>
+</body>
+</html>
+<!-- DONE -->
+<!-- https://youtu.be/NWViu1EPFN0 -->
