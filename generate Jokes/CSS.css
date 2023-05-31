@@ -1,0 +1,141 @@
+/* Start NavBar work */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+  background-color:  #0078d0;
+  color: #fff;
+}
+
+.main-navbar{
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.img-div{
+    padding-right: 20px;
+    /* width: auto; */
+}
+ul{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+ul li{
+    list-style: none;
+    border-left: 1px solid #444;
+color: #fff;
+font-family: montserrat,Arial,Helvetica,sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+padding: 0 25px;
+text-transform: uppercase;
+}
+
+/* End NavBar work */
+/* Starts Main content */
+
+
+.header-bottom-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+    width: 1029px;
+    height: 328px;   
+}
+
+@media screen and (max-width: 650px) {
+  .header-bottom-img{
+    width: 100%;
+    height: auto;
+  }
+  .jokes-p-2{
+    font-size: 16px; 
+  }
+}
+
+.Jokes{
+    margin-top: 20px;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+}
+
+.container{
+    margin: 4vh;
+    font-family: "Rubik",sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+  /* <!-- HTML !--> */
+  /* <button class="button-71" role="button">Button 71</button> */
+  
+
+  /* CSS */
+  .jokes-p-2{
+    color: #fff;
+    font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  .button-1 {
+    background-color: #0078d0;
+    border: 0;
+    border-radius: 56px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    outline: 0;
+    padding: 16px 21px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: all .3s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button-1:before {
+    background-color: initial;
+    background-image: linear-gradient(#fff 0, rgba(255, 255, 255, 0) 100%);
+    border-radius: 125px;
+    content: "";
+    height: 50%;
+    left: 4%;
+    opacity: .5;
+    position: absolute;
+    top: 0;
+    transition: all .3s;
+    width: 92%;
+  }
+  
+  .button-1:hover {
+    box-shadow: rgba(255, 255, 255, .2) 0 3px 15px inset, rgba(0, 0, 0, .1) 0 3px 5px, rgba(0, 0, 0, .1) 0 10px 13px;
+    transform: scale(1.05);
+  }
+  
+  @media (min-width: 768px) {
+    .button-1 {
+      padding: 16px 48px;
+    }
+  }
+  

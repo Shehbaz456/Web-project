@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: steelblue;
+    color: white;
+    height: 73px;
+}
+
+.content{
+    font-family: 'Potta One', cursive;
+}
+.container{
+    /* background-color: red; */
+    width: 80vw;
+    padding: 32px 0;
+    margin: auto;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    padding: 0 15px;
+}
+
+.logo img{
+    border-radius: 15px;
+    width: 55px;
+}
+
+.toolbar-item{
+    cursor: pointer;
+    border: 2px solid rgb(131, 243, 56);
+    background-color: white;
+    color: black !important;
+    border-radius: 12px;
+}
+.copy-to-clipboard-button{
+    cursor: pointer;
+    color: black !important;
+    padding: 6px;
+    font-size: 16px !important;    
+}
